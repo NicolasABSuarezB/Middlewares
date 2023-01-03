@@ -1,0 +1,14 @@
+El usuario ingreso a la ruta / 
+El usuario ingreso a la ruta /css/variables.css 
+El usuario ingreso a la ruta /css/loginRegister.css 
+El usuario ingreso a la ruta /css/about.css 
+El usuario ingreso a la ruta /favicon.ico 
+El usuario ingreso a la ruta /login 
+El usuario ingreso a la ruta /admin?user=Ada 
+El usuario ingreso a la ruta /css/variables.css 
+El usuario ingreso a la ruta /css/loginRegister.css 
+El usuario ingreso a la ruta /css/about.css 
+El usuario ingreso a la ruta / 
+El usuario ingreso a la ruta /css/variables.css 
+El usuario ingreso a la ruta /css/loginRegister.css 
+El usuario ingreso a la ruta /css/about.css 

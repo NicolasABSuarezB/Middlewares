@@ -1,0 +1,9 @@
+main section {
+    text-align: center;
+    justify-content: center;
+    font-size: 25px;
+}
+
+.heading h1 {
+    color: rgb(67 117 157);
+}
